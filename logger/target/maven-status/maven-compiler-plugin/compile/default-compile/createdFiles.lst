@@ -1,0 +1,4 @@
+com\ruzal\loggerapp\controllers\TestController.class
+com\ruzal\loggerapp\interfaces\Logger.class
+com\ruzal\loggerapp\Test.class
+com\ruzal\loggerapp\aspects\LoggerHandler.class
